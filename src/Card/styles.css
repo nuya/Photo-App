@@ -28,4 +28,5 @@
 .cardGrid img {
   outline: 5px solid;
   box-sizing: border-box;
+  object-fit: cover;
 }
